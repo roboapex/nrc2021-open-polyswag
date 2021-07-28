@@ -1,1 +1,1 @@
-# nrc2021-open-polyswag
+# nrc2021-reg-polyswag
